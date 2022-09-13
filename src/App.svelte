@@ -17,9 +17,9 @@
 	</p>
 </div>
 
-<iframe width="100%" height="5958" frameborder="0"
-src="https://observablehq.com/embed/cc9449078bb7b9ae?cells=chart%2Cviewof+color">
-</iframe>
+<iframe width="100%" height="9228" frameborder="0"
+  src="https://observablehq.com/embed/cc9449078bb7b9ae?cells=chart%2Cviewof+color%2Csent"></iframe>
+
 
 <style>
 	.chart :global(div) {
