@@ -17,9 +17,10 @@
 	</p>
 </div>
 
-<iframe width="100%" height="5212" frameborder="0"
-  src="https://observablehq.com/embed/cc9449078bb7b9ae?cells=chart%2Csent">
-</iframe>  
+<iframe width="100%" height="5958" frameborder="0"
+src="https://observablehq.com/embed/cc9449078bb7b9ae?cells=chart%2Cviewof+color">
+</iframe>
+
 <style>
 	.chart :global(div) {
 		font: 10px sans-serif;
